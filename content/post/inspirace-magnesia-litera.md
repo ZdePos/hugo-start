@@ -1,7 +1,7 @@
 ---
 title: "Inspirace Magnesia Litera"
 date: 2018-03-31T13:56:12+02:00
-draft: true
+draft: false
 ---
 
 Mladá básnířka to přes literární soutěž dotáhla k vlastní knížce a nominaci na prestižní českou literární cenu. To stojí za pozornost.
