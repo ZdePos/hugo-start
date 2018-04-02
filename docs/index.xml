@@ -49,12 +49,23 @@ To add new posts, simply add a file in the content/post directory that follows t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zdepos.github.io/hugo-start/about/</guid>
-      <description>Cílová skupina: Duší mladí amatérští básníci, zájemci o poetické zážitky především v Brně. Cíl webu: Průvodce poetickým světem. Název webu: POETURISTIKA Webové zdroje: http://www.brnopoeticke.cz/ https://www.pisetedosupliku.cz/ http://www.vaseliteratura.cz/ http://www.h7o.cz/ http://www.nedelnichvilkapoezie.cz/ https://www.casopispoezie.cz/
- Ne-webové zdroje: Nejlepší české básně 2017. První vydání. Brno: Host, 2017. 100 stran. ISBN 978-80-7577-189-6. Host Tvar Literární noviny A2 &amp;hellip;
-  Vizuální inspirace: např. https://www.zajicvhajku.cz/, https://pixabay.com/photo-791767/, https://pixabay.com/photo-488669/
- Obsah:
- ukázky básní tvůrců projektu
- ukázky básní, které stojí za pozornost</description>
+      <description>Cílová skupina: Duší mladí amatérští básníci, zájemci o poetické zážitky především v Brně. Cíl webu: Průvodce poetickým světem.
+Název webu: POETURISTIKA
+Webové zdroje:
+ http://www.brnopoeticke.cz/
+ https://www.pisetedosupliku.cz/
+ http://www.vaseliteratura.cz/
+ http://www.h7o.cz/
+ http://www.nedelnichvilkapoezie.cz/
+ https://www.casopispoezie.cz/
+  Ne-webové zdroje:
+ Nejlepší české básně 2017. První vydání. Brno: Host, 2017. 100 stran. ISBN 978-80-7577-189-6.
+ Host
+ Tvar
+ Literární noviny
+ A2
+ &amp;hellip;
+     Vizuální inspirace: např.</description>
     </item>
     
   </channel>

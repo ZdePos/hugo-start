@@ -1,7 +1,6 @@
 ---
 title: Tým
 date: 2018-04-01
-tags: 
     
 ---
 Realizační tým Poeturistiky tvoří tři studenti KISKU:
