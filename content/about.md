@@ -5,6 +5,7 @@ menu:
     weight: 30
 ---
 Cílová skupina: Duší mladí amatérští básníci, zájemci o poetické zážitky především v Brně.
+
 Cíl webu: Stránky POETURISTIKA by měly sloužit jako jakýsi průvodce poetickým světem. Rádi bychom se podělili o naše rozmanité zkušenosti, postřehy a inspiraci z oblasti poezie a literatury s podobně založenými básnivými jedinci a soustředili tyto informace a zajímavosti na jednom místě.
 
 Název webu: __POETURISTIKA__
