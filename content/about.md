@@ -5,7 +5,7 @@ menu:
     weight: 30
 ---
 Cílová skupina: Duší mladí amatérští básníci, zájemci o poetické zážitky především v Brně.
-Cíl webu: Průvodce poetickým světem.
+Cíl webu: Stránky POETURISTIKA by měly sloužit jako jakýsi průvodce poetickým světem. Rádi bychom se podělili o naše rozmanité zkušenosti, postřehy a inspiraci z oblasti poezie a literatury s podobně založenými básnivými jedinci a soustředili tyto informace a zajímavosti na jednom místě.
 
 Název webu: __POETURISTIKA__
 
@@ -38,7 +38,7 @@ __Ne-webové zdroje:__
 * ...
 
 
-6. <iframe width="560" height="315" src="https://www.youtube.com/embed/1TB5t6G-YB0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1TB5t6G-YB0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 __Vizuální inspirace:__ např. https://www.zajicvhajku.cz/, https://pixabay.com/photo-791767/, https://pixabay.com/photo-488669/
 
