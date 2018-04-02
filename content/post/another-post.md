@@ -1,19 +1,11 @@
 ---
-title: All albums of The Beatles
-date: 2018-03-15
+title: Tým
+date: 2018-04-01
 tags: 
-    - beatles
-    - data
+    
 ---
+Realizační tým Poeturistiky tvoří tři studenti KISKU:
 
-This is just another post. And it illustrates a mighty functionality.
-
-<!--more-->
-
-See how to include data inside your posts:
-
-## Beatles Discography
-
-{{< beatles >}}
-
-You can find the data in `data/The_Beatles/discography.yml` and the template used to display it in `layouts/shortcodes/beatles.html`.
+*__Jana__ píše básně, publikuje na Poetizeru. K jejím zálibám patří četba knih, filmy, hudba a skaut.
+*__Tomáš__ je amatérský básník, rád vede dlouhé konverzace o smyslu života a zajímá se o knihy a techniku.
+*__Zdeňka__ je máma a básnířka. Má řadu zkušeností z literárních soutěží, snaží se mít přehled ve světě české poezie a těší ji předávat tipy dál. 
