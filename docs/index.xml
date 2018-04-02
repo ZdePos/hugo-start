@@ -6,10 +6,20 @@
     <description>Recent content in Home on POETURISTIKA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sat, 31 Mar 2018 13:56:12 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zdepos.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tým</title>
+      <link>https://zdepos.github.io/hugo-start/post/another-post/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zdepos.github.io/hugo-start/post/another-post/</guid>
+      <description>Realizační tým Poeturistiky tvoří tři studenti KISKU:
+*Jana píše básně, publikuje na Poetizeru. K jejím zálibám patří četba knih, filmy, hudba a skaut. *Tomáš je amatérský básník, rád vede dlouhé konverzace o smyslu života a zajímá se o knihy a techniku. *Zdeňka je máma a básnířka. Má řadu zkušeností z literárních soutěží, snaží se mít přehled ve světě české poezie a těší ji předávat tipy dál.</description>
+    </item>
     
     <item>
       <title>Inspirace Magnesia Litera</title>
@@ -19,17 +29,6 @@
       <guid>https://zdepos.github.io/hugo-start/post/inspirace-magnesia-litera/</guid>
       <description>Mladá básnířka to přes literární soutěž dotáhla k vlastní knížce a nominaci na prestižní českou literární cenu. To stojí za pozornost.
  </description>
-    </item>
-    
-    <item>
-      <title>All albums of The Beatles</title>
-      <link>https://zdepos.github.io/hugo-start/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://zdepos.github.io/hugo-start/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,8 +47,8 @@ To add new posts, simply add a file in the content/post directory that follows t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zdepos.github.io/hugo-start/about/</guid>
-      <description>Cílová skupina: Duší mladí amatérští básníci, zájemci o poetické zážitky především v Brně. Cíl webu: Průvodce poetickým světem. Název webu: POETURISTIKA Webové zdroje: - http://www.brnopoeticke.cz/ - https://www.pisetedosupliku.cz/ - http://www.vaseliteratura.cz/ - http://www.h7o.cz/ - http://www.nedelnichvilkapoezie.cz/ - https://www.casopispoezie.cz/
- Ne-webové zdroje: - Nejlepší české básně 2017. První vydání. Brno: Host, 2017. 100 stran. ISBN 978-80-7577-189-6. - Host - Tvar - Literární noviny - A2 - &amp;hellip;
+      <description>Cílová skupina: Duší mladí amatérští básníci, zájemci o poetické zážitky především v Brně. Cíl webu: Průvodce poetickým světem. Název webu: POETURISTIKA Webové zdroje: * http://www.brnopoeticke.cz/ * https://www.pisetedosupliku.cz/ * http://www.vaseliteratura.cz/ * http://www.h7o.cz/ * http://www.nedelnichvilkapoezie.cz/ * https://www.casopispoezie.cz/
+ Ne-webové zdroje: * Nejlepší české básně 2017. První vydání. Brno: Host, 2017. 100 stran. ISBN 978-80-7577-189-6. * Host * Tvar * Literární noviny * A2 * &amp;hellip;
   Vizuální inspirace: např. https://www.zajicvhajku.cz/, https://pixabay.</description>
     </item>
     
